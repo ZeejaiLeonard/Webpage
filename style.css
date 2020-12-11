@@ -1,0 +1,70 @@
+*{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#cnv{
+  position: absolute;
+  z-index: 1;
+}
+#wrapperDiv{
+  margin: auto;
+  text-align: center;
+}
+#headerDiv{
+
+}
+h1{
+  margin: 45px;
+  text-align: center;
+}
+#navDiv{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #131314;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+li{
+  float: left;
+}
+#bodyDiv{
+
+}
+body{
+  background-color: #7B7A7C;
+  margin: auto;
+}
+#absThink{
+  float: right;
+  margin: 5px;
+}
+p{
+  margin: auto;
+  text-align: left;
+  text-indent: 30px;
+  padding: 14px 16px;
+}
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: #9D9D9F;
+}
+.active {
+  background-color: #000000;
+}
+#footerDiv{
+
+}
